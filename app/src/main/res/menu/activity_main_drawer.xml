@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+
+    >
+
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/musume"
+            android:title="@string/hotel" />
+        <item
+            android:id="@+id/park"
+            android:title="@string/parks" />
+        <item
+            android:id="@+id/university"
+            android:title="@string/museum" />
+        <item
+            android:id="@+id/resturent"
+            android:title="@string/resturents" />
+    </group>
+
+
+
+</menu>

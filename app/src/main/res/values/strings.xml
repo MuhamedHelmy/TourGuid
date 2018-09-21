@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Tour</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="egypt_tour_guide">EGYPT TOUR GUIDE</string>
+    <string name="tour_guide">Tour Guide</string>
+    <string name="museum">Museum</string>
+    <string name="parks">Parks</string>
+    <string name="university">University</string>
+    <string name="resturents">Resturents</string>
+    <string name="introduction_to_the_cairo_app">
+        Cairo is the most beatfull city in the world it has alot of  charactaristics its weather is fine and it centered of the world and it has the river nile
+    </string>
+    <string name="head_of_the_introduction_activity">Hello To Cairo Guide App</string>
+    <string name="cairo_at_nile_plaza_txt">
+        one of the most buetful hotels in egypt
+    </string>
+    <string name="sofitel_cairo_nile_gezirah_txt">
+       Under an Egyptian sun, you arrive at a gleaming golden tower on the banks of the Nile. Five-star luxury awaits. Your journey has brought you to Sofitel Cairo Nile El Gezirah.Entering a vast lobby with a dramatic spiral staircase, you immerse yourself in a world of grandeur that blends Arabic, Pharaonic and French Art Deco design.As the sun sets over this ancient land, the soft sounds of a flute catch your ear. Curiosity piqued, you venture out to find a procession in traditional dress bearing lanterns. Candles are lit. The ritual bids farewell to day and welcomes night. After an inspiring day of exploring lands where pharaohs walked, you seek respite. SoSpas Queen Cleopatra beauty ritual beckons. You ease into a soothing milk-and-almond bath strewn with rose petals, followed by an exfoliating scrub and relaxing massage
+    </string>
+    <string name="cairo_marriott_hotel_and_omar_khayyam_casino_txt">
+Bask in the elegance of Cairo Marriott Hotel and Omar Khayyam Casino. Guests are treated to lush gardens, a historic palatial property and 5-star accommodations. ur room service. Many of the rooms have balconies with views of the gardens, the city or the Nile. Upgrade to an Executive Level room to access the exclusive lounge and perks like free breakfast, afternoon tea and dessert. Our luxury suites feature generous layouts, kitchenettes and fireplaces. The property invites guests to use our gym, updated pool or brand new spa. Delicious dining options abound and include restaurants set amidst our verdant gardens. Those planning a wedding or conference in the Zamalek District will appreciate our hotels versatile and unique event venues. You can also enjoy an evening in our casino, or explore the nearby Cairo Tower, Cairo Opera House, Egyptian Museum, the Pyramids and the Sphinx
+    </string>
+    <string name="kempinski_nile__hotel_garden_city_cairo_txt">
+        The Kempinski name is proudly . We believe life should be lived with style.
+
+Each year,
+
+
+    </string>
+    <string name="Gamal_abd_el_Nasermusume">
+        Gamal abd el naser museume is one of th e most butiful museume in Egypt it has alot of antiques in it an it is name is fore the president gamal abd el ansser
+    </string>
+    <string name="El_Mathaf_el_Qepty">
+        I am very glad to see the Coptic Museum entering a new era. The Museum itself has been under renovation for over five years. The historic buildings and the priceless artifacts housed in them have been painstakingly conserved, and the displays have been beautifully renewed.
+
+As part of the rebirth of the Coptic Museum in the 21st century, it is only befitting to have a world-class home on the internet. This multimedia site offers a chance not only for leading scholars to share their expertise on Egypt’s Coptic heritage, but also an opportunity for members of the Coptic community to express their views and to contribute to the ongoing development of this vital part of Egypt’s culture and society.
+
+I am proud of the many people who have worked so hard to make the Coptic Museum what it is today, and I am delighted to say that I feel this museum has a very bright future in the digital age. I hope that you enjoy this website.
+
+    </string>
+    <string name="ELMathaf_elmasry">
+        el  amthaph el masry is one of the most buetfull museume in egpt it has alot of antiqs alot of touristes come from alll over the worled to see it and see the maytey of the Egyptions in all fields
+    </string>
+    <string name="ElMATHAF_elfan_Elmasry">
+        el fan el masry is one of the most interisting musume in egypt it has alot of monuments and antiques which is atractive to the vistor from all over the world if you visit it you will found yhe great of egptions
+    </string>
+    <string name="elAzhar">
+    one of th emost buteaful parks in egypt it has treess and grass which make you have fun
+</string>
+    <string name="elDawlia">
+      El hadika el dawliaa is  one of th emost buteaful parks in egypt it has treess and grass which make you have fun
+
+    </string>
+    <string name="elhoria">
+      el horiaa is one of th emost buteaful parks in egypt it has treess and grass which make you have fun
+
+    </string>
+    <string name="Elosra">
+        el osra  one of th emost buteaful parks in egypt it has treess and grass which make you have fun
+
+    </string>
+    <string name="ospasta">
+        Phone: 99999999
+        one of the best resturent in egypt
+        breakfast-lunch-dinner
+    </string>
+    <string name="zitoni">
+        Phone: 999999
+
+
+Restaurant features
+Valet Parking, Reservations, Outdoor Seating, Private Dining, Seating, Waitstaff, Parking Available, Validated Parking, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts American Express, Accepts Mastercard, Accepts Visa, Free Wifi
+Good for
+Large groups, Romantic, Families with children, Business meetings, Bar scene, Special occasions, Local cuisine, Scenic view, Kids
+
+
+Description
+Guests familiar with the flavours and spices of Lebanese cuisine will find them blended to perfection at Fayruz. for newcomers, let the famously friendly staff introduce you over lunch on the outdoor terrace or an exotic dinner show with live belly dancing. The interior is delightfully authentic and evocative.
+
+    </string>
+    <string name="sachi">
+
+Indian, Asian, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options
+Meals
+Lunch, Dinner, Late Night
+
+
+Is This Your TripAdvisor Listing?
+Own or manage this property? Claim your listing for free to respond to reviews, update your profile and much more. Claim Your Listing
+    </string>
+    <string name="armonda">
+    average price 530EGP - EGP 1,766
+    Cuisine
+    Asian, Thai, Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options
+    Meals
+    Lunch, Dinner
+
+</string>
+    <string name="hotel_name_nile_plaza">Nile Plaza</string>
+    <string name="hotel_name_marriot">Marriot Hotel</string>
+    <string name="hotel_name_kempinksi">Kempinksi</string>
+    <string name="hotel_name_sofitel_cairo_nile">Sofitel Cairo Nile</string>
+    <string name="Gamal">Gamal ABD el naser</string>
+    <string name="ElQipty">el mathafp el qipty</string>
+    <string name="Elmasry">el masry</string>
+    <string name="ElMATHAF_elfan">">el fan el amsry"</string>
+    <string name="osra">hadikat el osra</string>
+    <string name="horiia">hadikat el horria</string>
+    <string name="azhar">Hadikat el azah</string>
+    <string name="dawliaa">El hadika el dawliaa</string>
+    <string name="pasta">Ospasta</string>
+    <string name="ziton">Zitonia</string>
+    <string name="sach">schia</string>
+    <string name="armond">armonda</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hotel">Hotel</string>
+    <string name="home">Home</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cairo">Cairo</string>
+</resources>
